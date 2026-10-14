@@ -1,0 +1,19 @@
+{
+    "name": "ITKamianets.Engine.Audio",
+    "rootNamespace": "ITKamianets.Engine.Audio",
+    "references": [
+        "ITKamianets.Engine.Core",
+        "ITKamianets.Engine.Scene",
+        "ITKamianets.Engine.Assets",
+        "ITKamianets.Engine.Character"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

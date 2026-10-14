@@ -1,0 +1,22 @@
+{
+    "name": "ITKamianets.Engine.Audio.Tests",
+    "rootNamespace": "ITKamianets.Engine.Audio.Tests",
+    "references": [
+        "ITKamianets.Engine.Audio",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

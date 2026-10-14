@@ -1,0 +1,22 @@
+{
+  "name": "com.itkamianets.3d-unity-audio",
+  "version": "0.1.0",
+  "displayName": "IT-Kamianets 3D Engine: Unity Audio",
+  "description": "Positional 3D sound, sound events with variations, footsteps by surface, volume groups and music. Clips load by id through 3d-unity-assets.",
+  "unity": "6000.6",
+  "license": "MIT",
+  "author": {
+    "name": "IT Kamianets"
+  },
+  "keywords": [
+    "3d-engine",
+    "it-kamianets"
+  ],
+  "dependencies": {
+    "com.itkamianets.3d-unity-core": "0.1.0",
+    "com.itkamianets.3d-unity-scene": "0.1.0",
+    "com.itkamianets.3d-unity-assets": "0.1.0",
+    "com.itkamianets.3d-unity-character": "0.1.0",
+    "com.unity.modules.audio": "1.0.0"
+  }
+}
